@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter10_InputMethod</string>
+    <string name="hello">Hello World, IMFActivity!</string>
+    <string name="account">Account: </string>
+    <string name="password">Password: </string>
+    <string name="name">Name: </string>
+    <string name="birthday">Birthday: </string>
+    <string name="email">Email: </string>
+    <string name="phone">Phone: </string>
+</resources>
